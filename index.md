@@ -10,7 +10,7 @@ Faruk Jose Nome Silva, **Amanda Tomlinson**, and Aldrin Paynter, "Low-IQ Current
 
 <style>
 body {
-  background-color: coral;
+  background-color: white;
 }
 </style>
 
@@ -205,10 +205,5 @@ function fairyDustCursor(options) {
 }
   
 console.log('hello');
-fairyDustCursor();
-</script>
-
-
-<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js">
-new cursoreffects.ghostCursor();
+//fairyDustCursor();
 </script>

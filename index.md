@@ -8,8 +8,6 @@ Nathan Zhang, Jacky Liang, **Amanda Tomlinson**, Frank Boensch, and Anant Sahai.
 
 Faruk Jose Nome Silva, **Amanda Tomlinson**, and Aldrin Paynter, "Low-IQ Current Mirror Trimming," US Patent #11,385,669 (Issued Jul 12, 2022)
 
-
-<script>
-
-console.log('hello')
+<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js">
+new cursoreffects.ghostCursor();
 </script>

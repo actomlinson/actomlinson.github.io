@@ -1,3 +1,5 @@
+PhD student at UC San Diego, advised by George Porter.
+
 ## Publications
 
 **Amanda Tomlinson** and George Porter, "Something Old, Something New: Extending the Life of CPUs in Datacenters," in Proceedings of the 1st Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon), San Diego, CA, July 2022.
